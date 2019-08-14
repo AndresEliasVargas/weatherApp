@@ -1,0 +1,103 @@
+:root {
+    --blue-app: #03a9f4;
+    --gray-menu: #4b4b4d;
+    --container-menu: #607d8b;
+}
+
+/* GENERAL STYLES */
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+.totalPage {
+    height: 100vh;
+}
+
+.bg-blueApp {
+    background: var(--blue-app);
+}
+
+.bg-menu {
+    background: var(--gray-menu);
+}
+
+.bg-containerMenu {
+    background: var(--container-menu);
+}
+
+.display-5 {
+    font-size: 2rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.display-6 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+.ml-2-5 {
+    margin-left: .7rem!important;
+}
+
+.mr-3-5 {
+    margin-right: 1.4rem!important;
+}
+
+.mr-4-5 {
+    margin-right: 1.8rem!important;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+/* WEATHER CONTAINER STYLES */
+
+#weatherContainer>p {
+    margin-bottom: .5rem;
+}
+
+#weatherContainer>p:nth-child(5) {
+    margin-top: 5rem;
+}
+
+/* MEDIA QUERIES FOR 380PX MAX */
+
+@media all and (max-width: 526px) {
+    .positionInfoMobile {
+        display: block;
+        margin: 1rem 0 0 5rem!important;
+    }
+    #weatherContainer>p {
+        margin-bottom: 0;
+    }
+}
+
+@media all and (min-width:320px) and (max-width:380px) {
+    .bg-containerMenu .pl-3, .px-3 {
+        padding-left: 1rem!important;
+    }
+    .bg-containerMenu>.row>.col-12 {
+        padding: 0 12px;
+    }
+    .positionInfoMobile {
+        margin: .1rem 0 .5rem 3rem!important;
+    }
+    .positionInfoMobileWeather{
+        display: block;
+        margin: .2rem 0 1rem 0;
+    }
+    .display-6 {
+        font-size: 1.2rem;
+    }
+
+    .mr-4-5 {
+        margin-right: 1.5rem!important;
+    }
+}

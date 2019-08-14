@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Examen 2 - Andrés Vargas Ramírez</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- FontAwesome -->
+    <script src="https://kit.fontawesome.com/b5035c45fa.js"></script>
+</head>
+<body class="container-fluid">
+    <div class="row totalPage">
+        <div class="col-5 col-md-3 text-white bg-menu py-4" id="leftContainer">
+            <h2 class="text-center">City</h2>
+            <p class="mb-3 mb-md-5 text-center">Select the city for more information</p>
+            <div class="row">
+                <div id="dataCity" class="col-12"></div>
+            </div>
+        </div>
+        <div class="col-7 col-md-9 bg-blueApp pt-4" id="rightContainer">
+            <h2 class="text-center text-white" id="title">Weather <span id="cityName"></span></h2>
+            <div class="row">
+                <div id="dataWeather" class="col-12"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/app.js"></script>
+    <script src="js/City.js"></script>
+    <script src="js/CityUI.js"></script>
+    <script src="js/Weather.js"></script>
+    <script src="js/WeatherUI.js"></script>
+</body>
+</html>

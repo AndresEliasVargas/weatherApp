@@ -1,0 +1,427 @@
+[
+	{
+		"city": {
+			"id": 1283240,
+			"name": "Kathmandu",
+			"findname": "KATHMANDU",
+			"country": "NP",
+			"coord": {
+				"lon": 85.316666,
+				"lat": 27.716667
+			}
+		},
+		"time": 1489487389,
+		"main": {
+			"temp": 291.15,
+			"pressure": 1017,
+			"humidity": 45,
+			"temp_min": 291.15,
+			"temp_max": 291.15
+		},
+		"wind": {
+			"speed": 9.3,
+			"deg": 240,
+			"var_beg": 200,
+			"var_end": 270
+		},
+		"clouds": {
+			"all": 75
+		},
+		"weather": [
+			{
+				"id": 501,
+				"main": "Rain",
+				"description": "proximity moderate rain"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 3632308,
+			"name": "Merida",
+			"findname": "MERIDA",
+			"country": "VE",
+			"coord": {
+				"lon": -71.144997,
+				"lat": 8.598333
+			}
+		},
+		"time": 1489487389,
+		"main": {
+			"temp": 283.584,
+			"temp_min": 283.584,
+			"temp_max": 283.584,
+			"pressure": 815.99,
+			"sea_level": 1024.28,
+			"grnd_level": 815.99,
+			"humidity": 100
+		},
+		"wind": {
+			"speed": 0.78,
+			"deg": 119.003
+		},
+		"clouds": {
+			"all": 20
+		},
+		"weather": [
+			{
+				"id": 500,
+				"main": "Rain",
+				"description": "light rain"
+			}
+		],
+		"rain": {
+			"3h": 0.43
+		}
+	},
+	{
+		"city": {
+			"id": 1280737,
+			"name": "Lhasa",
+			"findname": "LHASA",
+			"country": "CN",
+			"coord": {
+				"lon": 91.099998,
+				"lat": 29.65
+			}
+		},
+		"time": 1489487390,
+		"main": {
+			"temp": 274.484,
+			"temp_min": 274.484,
+			"temp_max": 274.484,
+			"pressure": 603.53,
+			"sea_level": 1014.44,
+			"grnd_level": 603.53,
+			"humidity": 20
+		},
+		"wind": {
+			"speed": 3.13,
+			"deg": 231.003
+		},
+		"clouds": {
+			"all": 64
+		},
+		"weather": [
+			{
+				"id": 803,
+				"main": "Clouds",
+				"description": "broken clouds"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 745042,
+			"name": "İstanbul",
+			"findname": "İSTANBUL",
+			"country": "TR",
+			"coord": {
+				"lon": 28.983311,
+				"lat": 41.03508
+			}
+		},
+		"time": 1489487390,
+		"main": {
+			"temp": 277.63,
+			"pressure": 1020,
+			"humidity": 86,
+			"temp_min": 277.15,
+			"temp_max": 278.15
+		},
+		"wind": {
+			"speed": 4.6,
+			"deg": 290,
+			"var_beg": 260,
+			"var_end": 320
+		},
+		"clouds": {
+			"all": 75
+		},
+		"weather": [
+			{
+				"id": 500,
+				"main": "Rain",
+				"description": "light rain"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 3496831,
+			"name": "Mao",
+			"findname": "MAO",
+			"country": "DO",
+			"coord": {
+				"lon": -71.078133,
+				"lat": 19.551861
+			}
+		},
+		"time": 1489487390,
+		"main": {
+			"temp": 294.84,
+			"pressure": 1016,
+			"humidity": 100,
+			"temp_min": 294.15,
+			"temp_max": 295.15
+		},
+		"wind": {
+			"speed": 2.6,
+			"deg": 140
+		},
+		"clouds": {
+			"all": 75
+		},
+		"weather": [
+			{
+				"id": 803,
+				"main": "Clouds",
+				"description": "broken clouds"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 523523,
+			"name": "Nalchik",
+			"findname": "NALCHIK",
+			"country": "RU",
+			"coord": {
+				"lon": 43.618889,
+				"lat": 43.498058
+			}
+		},
+		"time": 1489487390,
+		"main": {
+			"temp": 278.15,
+			"pressure": 1013,
+			"humidity": 93,
+			"temp_min": 278.15,
+			"temp_max": 278.15
+		},
+		"wind": {
+			"speed": 2.08,
+			"deg": 57.5029
+		},
+		"clouds": {
+			"all": 90
+		},
+		"weather": [
+			{
+				"id": 701,
+				"main": "Mist",
+				"description": "mist"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 2267057,
+			"name": "Lisbon",
+			"findname": "LISBON",
+			"country": "PT",
+			"coord": {
+				"lon": -9.13333,
+				"lat": 38.716671
+			}
+		},
+		"time": 1489487391,
+		"main": {
+			"temp": 285.54,
+			"pressure": 1023,
+			"humidity": 62,
+			"temp_min": 284.15,
+			"temp_max": 287.15
+		},
+		"wind": {
+			"speed": 7.7,
+			"deg": 60
+		},
+		"clouds": {
+			"all": 20
+		},
+		"weather": [
+			{
+				"id": 801,
+				"main": "Clouds",
+				"description": "few clouds"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 3082707,
+			"name": "Walbrzych",
+			"findname": "WALBRZYCH",
+			"country": "PL",
+			"coord": {
+				"lon": 16.284321,
+				"lat": 50.771412
+			}
+		},
+		"time": 1489487391,
+		"main": {
+			"temp": 280.15,
+			"pressure": 1029,
+			"humidity": 52,
+			"temp_min": 280.15,
+			"temp_max": 280.15
+		},
+		"wind": {
+			"speed": 3.1,
+			"deg": 180,
+			"var_beg": 150,
+			"var_end": 210
+		},
+		"clouds": {
+			"all": 0
+		},
+		"weather": [
+			{
+				"id": 800,
+				"main": "Clear",
+				"description": "Sky is Clear"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 1256913,
+			"name": "Sehore",
+			"findname": "SEHORE",
+			"country": "IN",
+			"coord": {
+				"lon": 77.083328,
+				"lat": 23.200001
+			}
+		},
+		"time": 1489487475,
+		"main": {
+			"temp": 300.164,
+			"temp_min": 300.164,
+			"temp_max": 300.164,
+			"pressure": 973.04,
+			"sea_level": 1026.15,
+			"grnd_level": 973.04,
+			"humidity": 22
+		},
+		"wind": {
+			"speed": 2.91,
+			"deg": 44.0008
+		},
+		"clouds": {
+			"all": 0
+		},
+		"weather": [
+			{
+				"id": 800,
+				"main": "Clear",
+				"description": "Sky is Clear"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 1256922,
+			"name": "Secunderabad",
+			"findname": "SECUNDERABAD",
+			"country": "IN",
+			"coord": {
+				"lon": 78.542633,
+				"lat": 17.504271
+			}
+		},
+		"time": 1489487475,
+		"main": {
+			"temp": 307.15,
+			"pressure": 1012,
+			"humidity": 36,
+			"temp_min": 307.15,
+			"temp_max": 307.15
+		},
+		"wind": {
+			"speed": 3.6,
+			"deg": 100
+		},
+		"clouds": {
+			"all": 40
+		},
+		"weather": [
+			{
+				"id": 721,
+				"main": "Haze",
+				"description": "haze"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 1832501,
+			"name": "Reiko",
+			"findname": "REIKO",
+			"country": "KR",
+			"coord": {
+				"lon": 126.509438,
+				"lat": 35.275002
+			}
+		},
+		"time": 1489487500,
+		"main": {
+			"temp": 276.614,
+			"temp_min": 276.614,
+			"temp_max": 276.614,
+			"pressure": 1028.08,
+			"sea_level": 1036.77,
+			"grnd_level": 1028.08,
+			"humidity": 50
+		},
+		"wind": {
+			"speed": 7.71,
+			"deg": 341.001
+		},
+		"clouds": {
+			"all": 0
+		},
+		"weather": [
+			{
+				"id": 800,
+				"main": "Clear",
+				"description": "Sky is Clear"
+			}
+		]
+	},
+	{
+		"city": {
+			"id": 1832743,
+			"name": "Yeoju",
+			"findname": "YEOJU",
+			"country": "KR",
+			"coord": {
+				"lon": 127.633888,
+				"lat": 37.29583
+			}
+		},
+		"time": 1489487500,
+		"main": {
+			"temp": 279.65,
+			"pressure": 1021,
+			"humidity": 28,
+			"temp_min": 275.15,
+			"temp_max": 282.15
+		},
+		"wind": {
+			"speed": 1.5,
+			"deg": 320
+		},
+		"clouds": {
+			"all": 1
+		},
+		"weather": [
+			{
+				"id": 800,
+				"main": "Clear",
+				"description": "sky is clear"
+			}
+		]
+	}
+]
